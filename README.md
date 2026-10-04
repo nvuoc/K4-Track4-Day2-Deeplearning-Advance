@@ -1,5 +1,7 @@
 # Lab Day 2 — Backbone, công thức huấn luyện và suy luận trên DeepWeeds
 
+Link Kaggle: https://www.kaggle.com/code/vanuoc/notebook88755800d5
+
 > Track 4 · Ngày 2 · *Tích chập, chuỗi, attention · backbone · huấn luyện · suy luận*
 > Bài lab này mở rộng **Lab #2** trong slide Day 2. Slide chỉ yêu cầu 1 backbone, 3 cách khởi tạo, có/không CutMix và TTA. Ở đây bạn làm đầy đủ: **≥ 5 backbone**, **nhiều công thức huấn luyện**, **nhiều cách suy luận**, rồi chọn cấu hình tốt nhất và báo cáo.
 
